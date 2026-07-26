@@ -1,0 +1,4 @@
+﻿<resources>
+    <string name="app_name">医考助手</string>
+    <string name="accessibility_description">接收手柄按键，自动点击医考帮的选项按钮。仅在医考帮前台时生效。</string>
+</resources>
